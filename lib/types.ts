@@ -58,4 +58,4 @@ export const initialBoardState: BoardState = Array(8)
           piece,
         };
       });
-  });
+  }); 
